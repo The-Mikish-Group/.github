@@ -1,8 +1,11 @@
 ## Hi there from: 
 # The Mikish Group👋
 
-## https://mikish.com
+## https://illustrate.net
 
+### An organization of talented people 🍿 
+
+#### Formed in 1998, we've been around for a while. Now we work with MVC NET frameworks in HTML with a little C#, Javascript, and CSS thrown in to be helpful; a nice mixture of tools, Also, some convenient sites have been templated with RapidWeaver for the Apple crowd. 
 <!--
 
 **Here are some ideas to get you started:**
