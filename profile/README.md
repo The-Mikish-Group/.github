@@ -8,10 +8,10 @@
 #### Formed in 1998, we've been around for a while. Now we work with ASP.NET MVC NET frameworks in HTML with a little C#, Javascript, and CSS thrown in, to be helpful for front end and back end work; a nice mixture of tools. 
 
 ### Check out:
-## https://fish-smart.com
-## https://oaks-village.com
-## https://apnazarene.org
-## and many more!
+### https://fish-smart.com
+### https://oaks-village.com
+### https://apnazarene.org
+### and many more!
 <!--
 
 **Here are some ideas to get you started:**
